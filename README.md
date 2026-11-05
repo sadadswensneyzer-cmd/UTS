@@ -1,4 +1,4 @@
-# CV Digital — Bang Dad
+# CV Digital — Muhammad Sadad
 
 Website Curriculum Vitae (CV) digital berbasis HTML, CSS, GitHub, dan Docker.
 
